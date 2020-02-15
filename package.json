@@ -1,9 +1,9 @@
 {
   "name": "node-js-getting-started",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "A sample Node.js app using Express 4",
   "engines": {
-    "node": "12.x"
+    "node": "12.16.0"
   },
   "main": "index.js",
   "scripts": {
@@ -11,16 +11,11 @@
     "test": "echo \"no test specified\" && exit 1"
   },
   "dependencies": {
-    "ejs": "^2.5.6",
-    "express": "^4.15.2"
-  },
-  "devDependencies": {
-    "request": "^2.81.0",
-    "tape": "^4.7.0"
+    "express": "^4.17.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/cursorweb/node-js-getting-started"
   },
   "keywords": [
     "node",
